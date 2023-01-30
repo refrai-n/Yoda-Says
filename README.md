@@ -1,7 +1,7 @@
-# Mixed Messages
-## A codecademy portfolio project.
+# Yoda Says
+## The codecademy "Mixed Messages" portfolio project.
 
-*Project Objectives:*
+*Original project Objectives:*
 
 + Build a message generator program using JavaScript
 + Use Git version control
