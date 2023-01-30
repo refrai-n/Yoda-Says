@@ -13,3 +13,6 @@
 
 *My Idea:*
 **Build a message generator inspired by Yoda**
+
+### The Plan:
+First part of the message should be a verb. The second one should be a subject. The third should be what yoda usually says like "You must/mustn't"
