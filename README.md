@@ -1,5 +1,6 @@
 # Yoda Says
-## The codecademy "Mixed Messages" portfolio project.
+## Generate messages like "Teach tax evasion to a cat, you must" randomly.
+### The codecademy "Mixed Messages" portfolio project.
 
 *Original project Objectives:*
 
